@@ -1,5 +1,5 @@
 # ge-programacao2022 
-#Terça-feira
-##Jogo Travessia da Rua
-😀🏃‍♂️
-- jogo
+Terça-feira
+- Jogo Travessia da Rua
+- Jogo 😀🏃‍♂️
+
